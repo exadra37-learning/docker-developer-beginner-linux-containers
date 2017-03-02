@@ -9,11 +9,9 @@ Try to do the same and you will notice that after some weeks or months your memo
 # Index
 
 * [Setup](training/setup.md)
-* [Running Your First Container](training/1.0-running-your-first-container.md)
-    + [Docker Pull](training/1.0-running-your-first-container.md#docker-pull)
-    + [Docker Images](training/1.0-running-your-first-container.md#docker-images)
-    +   [Docker Run](training/1.0-running-your-first-container.md#docker-run)
-    + [Docker Ps](training/1.0-running-your-first-container.md#docker-ps)
-    + [Docker Terminology](training/1.0-running-your-first-container.md#docker-terminology)
-
-
+* [Running Your First Container](training/1.0/running-your-first-container.md)
+    + [Docker Pull](training/1.0/running-your-first-container.md#docker-pull)
+    + [Docker Images](training/1.0/running-your-first-container.md#docker-images)
+    + [Docker Run](training/1.0/running-your-first-container.md#docker-run)
+    + [Docker Ps](training/1.0/running-your-first-container.md#docker-ps)
+    + [Docker Terminology](training/1.0/running-your-first-container.md#docker-terminology)
