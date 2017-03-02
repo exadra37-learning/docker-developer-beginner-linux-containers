@@ -2,7 +2,7 @@
 
 Installing Docker for Linux from https://docs.docker.com/engine/installation/linux/
 
-Testing installation by running:
+#### Testing installation by running:
 
 ```bash
 $ docker run hello-world
