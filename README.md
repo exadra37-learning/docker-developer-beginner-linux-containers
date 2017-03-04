@@ -6,6 +6,14 @@ Writing down all what I will execute in the Command Line, plus some key concepts
 
 Try to do the same and you will notice that after some weeks or months your memory still remember more easily what you have learned.
 
+> #### TIP:
+>   Avoid using `sudo docker` by aliasing it:
+>   
+>   ```bash
+>   echo 'alias docker="sudo docker"' >> ~/.bashrc # or for ZSH ~/.zshrc
+>   ```
+
+
 # Index
 
 * [Setup](training/setup.md)
@@ -15,12 +23,13 @@ Try to do the same and you will notice that after some weeks or months your memo
     + [Docker Run](training/1.0/running-your-first-container.md#docker-run)
     + [Docker Ps](training/1.0/running-your-first-container.md#docker-ps)
     + [Docker Terminology](training/1.0/running-your-first-container.md#docker-terminology)
-* [Training 2.0 - Web Apps With Docker](training/2.0/web-apps-with-docker.md)
+* [Training 2.0 - Web Apps With Docker](training/2.0/run-a-static-website-in-a-container.md)
     + [Run a Static Website in a Container](training/2.0/run-a-static-website-in-a-container.md)
+        + [Docker Run](training/2.0/run-a-static-website-in-a-container.md#docker-run)
+        + [Docker Port](training/2.0/run-a-static-website-in-a-container.md#docker-port)
         + [Docker Run - Advanced Usage](training/2.0/run-a-static-website-in-a-container.md#docker-run-advanced-usage)
         + [Docker Stop](training/2.0/run-a-static-website-in-a-container.md#docker-stop)
         + [Docker Rm](training/2.0/run-a-static-website-in-a-container.md#docker-rm)
-        + [Docker Port](training/2.0/run-a-static-website-in-a-container.md#docker-port)
     + [Explaining Docker Images](training/2.0/explaining-docker-images.md)
         + [Images Tags](training/2.0/explaining-docker-images.md#images-tags)
         + [Images types](training/2.0/explaining-docker-images.md#images-types)
